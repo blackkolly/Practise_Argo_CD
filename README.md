@@ -1,7 +1,7 @@
 # Practise_Argo_CD
 # Argo CD Hands-On Lab 🚀
 
-A practical guide to learning **Argo CD**, the declarative GitOps tool for Kubernetes. This repo includes setup instructions, example apps, and advanced workflows to master continuous delivery with Argo CD.
+A practical guide to learning **Argo CD**, the declarative GitOps tool for Kubernetes. This repo includes setup instructions, example apps, and advanced workflows to master continuous delivery with Argo CD.It enables to uunderstand the 
 
 ---
 
